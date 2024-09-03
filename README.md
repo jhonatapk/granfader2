@@ -1,2 +1,1 @@
-# granfader2
-este es un repositorio nuevo jhonatan
+jhonatan serafin celis basico de basicos
